@@ -1,3 +1,6 @@
 __author__ = 'aivener'
 
-print("hello");
+def greeting(msg):
+    print(msg);
+
+greeting("hello");
